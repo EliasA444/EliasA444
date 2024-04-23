@@ -1,14 +1,13 @@
 # Hello, I'm Elias.
 <a href="https://linkedin.com](https://www.linkedin.com/in/elias-alvarenga-339074154/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Passionate cybersecurity enthusiast with a focus on self-learning and hands-on experience. Seeking opportunities to apply expertise in protecting digital assets within a dynamic team environment. Strong industry certifications and a commitment to ongoing skill development.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+[Provide Objective - Remove this afterwards
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To build a robust entry-level cybersecurity portfolio showcasing practical skills, projects, and certifications. Dedicated to leveraging hands-on experience and continuous learning to contribute effectively to cybersecurity initiatives. Seeking opportunities to demonstrate proficiency in threat detection, incident response, and risk management within a professional setting.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -45,14 +44,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Cloud
+
+</div>
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Certification-blue?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Projects
