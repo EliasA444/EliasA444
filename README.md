@@ -5,9 +5,8 @@
 Passionate cybersecurity enthusiast with a focus on self-learning and hands-on experience. Seeking opportunities to apply expertise in protecting digital assets within a dynamic team environment. Strong industry certifications and a commitment to ongoing skill development.
 
 ## Objective
-[Provide Objective - Remove this afterwards
 
-To build a robust entry-level cybersecurity portfolio showcasing practical skills, projects, and certifications. Dedicated to leveraging hands-on experience and continuous learning to contribute effectively to cybersecurity initiatives. Seeking opportunities to demonstrate proficiency in threat detection, incident response, and risk management within a professional setting.
+To secure a challenging cybersecurity role where I can apply my passion for safeguarding digital assets and my expertise in threat detection, incident response, and risk mitigation. Eager to contribute to a dynamic team environment, utilizing my strong analytical skills and industry certifications to proactively defend against emerging cyber threats and ensure the security of organizational assets.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
