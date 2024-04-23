@@ -9,7 +9,6 @@ Passionate cybersecurity enthusiast with a focus on self-learning and hands-on e
 To secure a challenging cybersecurity role where I can apply my passion for safeguarding digital assets and my expertise in threat detection, incident response, and risk mitigation. Eager to contribute to a dynamic team environment, utilizing my strong analytical skills and industry certifications to proactively defend against emerging cyber threats and ensure the security of organizational assets.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,6 @@ To secure a challenging cybersecurity role where I can apply my passion for safe
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
