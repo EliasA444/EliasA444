@@ -1,5 +1,5 @@
 # Hello, I'm Elias.
-<a href="https://linkedin.com](https://www.linkedin.com/in/elias-alvarenga-339074154/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/elias-alvarenga-339074154/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Passionate cybersecurity enthusiast with a focus on self-learning and hands-on experience. Seeking opportunities to apply expertise in protecting digital assets within a dynamic team environment. Strong industry certifications and a commitment to ongoing skill development.
